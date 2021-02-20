@@ -5,6 +5,7 @@ dependencies:
   # Core requirements
   - python=3.7
   - pip
+  - tqdm
   # Allow a Jupyter kernel to be created for this env
   - ipykernel
   # Install some git dependencies using pip
