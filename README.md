@@ -7,9 +7,11 @@ This is a demo of https://github.com/UCBerkeleySETI/turbo_seti/issues/188
 ## Run on Binder
 
 **Upstream version** (broken)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OliverEvans96/turbo-seti-waterfall-plot-bug-demo/main?filepath=demo.ipynb)
 
 **My version** (working, patched with https://github.com/UCBerkeleySETI/turbo_seti/pull/187)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OliverEvans96/turbo-seti-waterfall-plot-bug-demo/patched?filepath=demo.ipynb)
 
 ## Run locally
