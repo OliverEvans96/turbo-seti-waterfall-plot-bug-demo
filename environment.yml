@@ -1,4 +1,4 @@
-name: turboSETI
+name: turbo_seti_waterfall_bug
 channels:
   - defaults
 dependencies:
